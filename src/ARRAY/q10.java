@@ -1,7 +1,4 @@
 package ARRAY;
-
-
-
 import java.util.Scanner;
 
 public class q10 {
